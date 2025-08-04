@@ -1,0 +1,17 @@
+### Send a test message to Kafka
+POST http://localhost:8080/api/send?topic=THKLD01
+Content-Type: text/plain
+
+Hello Kafka! This is a test message from msg-producer. ACCOUNTING
+
+### Send another test message with Korean characters
+POST http://localhost:8080/api/send?topic=THKLD01
+Content-Type: text/plain
+
+안녕하세요 카프카! 이것은 msg-producer에서 보낸 테스트 메시지입니다. RECEPTION
+
+### Send an Ebanking message
+POST http://localhost:8080/api/send?topic=THKLD01
+Content-Type: text/plain
+
+EBANKING message with some data.

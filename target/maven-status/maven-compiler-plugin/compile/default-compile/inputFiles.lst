@@ -1,0 +1,4 @@
+/Users/seongyong/dev/personal/msg-producer/src/main/java/com/kbstar/msgproducer/MsgProducerApplication.java
+/Users/seongyong/dev/personal/msg-producer/src/main/java/com/kbstar/msgproducer/ServletInitializer.java
+/Users/seongyong/dev/personal/msg-producer/src/main/java/com/kbstar/msgproducer/controller/MessageController.java
+/Users/seongyong/dev/personal/msg-producer/src/main/java/com/kbstar/msgproducer/service/KafkaProducerService.java
